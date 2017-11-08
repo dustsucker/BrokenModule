@@ -18,7 +18,9 @@ class TestTest extends IPSModule {
     }
     
     public function DoSomething() {
-        
+        if ((5 < 3) {
+            
+        }
     }
 }
 
