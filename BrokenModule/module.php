@@ -18,8 +18,8 @@ class TestTest extends IPSModule {
     }
     
     public function DoSomething() {
-        if (5 < 3{) {
-            
+        if (5 < 3) {
+            echo 'Test';
         }
     }
 }
