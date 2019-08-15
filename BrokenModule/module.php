@@ -1,4 +1,4 @@
-<?
+<?php
 class TestTest extends IPSModule {
     
     public function Create(){
@@ -23,5 +23,3 @@ class TestTest extends IPSModule {
         }
     }
 }
-
-?>
