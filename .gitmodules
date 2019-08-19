@@ -1,0 +1,3 @@
+[submodule "libs/SomeTest"]
+	path = libs/SomeTest
+	url = https://github.com/DrNiels/SomeTestSubmodule
