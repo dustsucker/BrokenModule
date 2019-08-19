@@ -1,3 +1,6 @@
 [submodule "libs/SomeTest"]
 	path = libs/SomeTest
 	url = https://github.com/DrNiels/SomeTestSubmodule
+[submodule "libs/phpseclib"]
+	path = libs/phpseclib
+	url = https://github.com/phpseclib/phpseclib
